@@ -1,4 +1,5 @@
-import Link from "next/link";
+"use client";
+Link from "next/link";
 import Image from "next/image";
 import { Product, formatPrice } from "@/data/products";
 
